@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel dos Santos"
-  avatar           : "https://github.com/gabe1007/gabe1007.github.io/blob/master/-vq7c40.jpg"
+  avatar           : "/assets/-vq7c40.jpg"
   bio              : "Analista de Sistemas apaixonado por Machine Learning, Ciência de Dados e suco de laranja "
   location         : "Somewhere"
   email            :
