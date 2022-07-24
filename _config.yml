@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :  "air" #"aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    :  "default" #"aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "air"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "A casa da Ciência de dados e Machine Learning"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
