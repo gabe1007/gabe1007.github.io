@@ -16,7 +16,7 @@ minimal_mistakes_skin    :  "air" #"default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "A casa da Ciência de dados e Machine Learning"
+title                    : "Ciência de dados e Machine Learning você encontra aqui"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
