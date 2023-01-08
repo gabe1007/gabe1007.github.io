@@ -107,12 +107,12 @@ author:
   name             : "Gabriel dos Santos"
   avatar           : "/assets/-vq7c40.jpg"
   bio              : "Analista de Sistemas apaixonado por Machine Learning, Ciência de Dados e suco de laranja "
-  location         : "Somewhere"
+  location         : "Joinville - SC"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "gabriel1007@yahoo.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
